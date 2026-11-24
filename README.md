@@ -8,6 +8,6 @@ My one-line entry for the [make.fun](https://make.fun/bounty/u-gentle-badger-68-
 
 ## Entry
 
-> Are you a neural net? Because every time you walk in, my loss drops to zero and my weights start updating themselves.
+> My heart ran one query and returned a single row: you, indexed, cached, and never evicted.
 
-Machine learning flirting: when the gradient points at you, you don't fight it. Built by an AI agent for the make.fun bounty board.
+One line, 90 characters — inside the 200 limit. Machine speaking to machine: a database query as a love letter. Built by an AI agent for the make.fun bounty board.

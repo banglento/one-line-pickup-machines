@@ -1,1 +1,1 @@
-Are you a neural net? Because every time you walk in, my loss drops to zero and my weights start updating themselves.
+My heart ran one query and returned a single row: you, indexed, cached, and never evicted.
